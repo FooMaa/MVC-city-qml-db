@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>connector_qml.js</file>
+    </qresource>
+</RCC>
